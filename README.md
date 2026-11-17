@@ -11,4 +11,3 @@ cd services/api && go run .
 ```
 
 Postgres lokal olaraq **5433** portunda işləyir.
-EOF
